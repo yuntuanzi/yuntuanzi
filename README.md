@@ -29,48 +29,9 @@
 
 
 ## 🌟 代表作
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
-  <a href="https://github.com/yuntuanzi/TuanICP" style="text-decoration: none; color: inherit;">
-    <div style="background: #f5f5f5; border-radius: 8px; padding: 1.2rem; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <div style="font-weight: bold; font-size: 1.1rem; margin-bottom: 0.5rem; color: #2c3e50;">TuanICP二次元虚拟备案系统</div>
-      <div style="color: #666; font-size: 0.9rem;">一款专为二次元网站设计的虚拟备案展示系统</div>
-    </div>
-  </a>
-  
-  <a href="https://github.com/yuntuanzi/TuanBBS" style="text-decoration: none; color: inherit;">
-    <div style="background: #f5f5f5; border-radius: 8px; padding: 1.2rem; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <div style="font-weight: bold; font-size: 1.1rem; margin-bottom: 0.5rem; color: #2c3e50;">TuanBBS喜灰论坛</div>
-      <div style="color: #666; font-size: 0.9rem;">基于喜灰主题的轻量级论坛系统</div>
-    </div>
-  </a>
-  
-  <a href="https://github.com/yuntuanzi/Domain-Parking" style="text-decoration: none; color: inherit;">
-    <div style="background: #f5f5f5; border-radius: 8px; padding: 1.2rem; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <div style="font-weight: bold; font-size: 1.1rem; margin-bottom: 0.5rem; color: #2c3e50;">精美域名停靠页</div>
-      <div style="color: #666; font-size: 0.9rem;">现代化设计的域名停靠/展示页面模板</div>
-    </div>
-  </a>
-  
-  <a href="https://github.com/yuntuanzi/TuanPic" style="text-decoration: none; color: inherit;">
-    <div style="background: #f5f5f5; border-radius: 8px; padding: 1.2rem; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <div style="font-weight: bold; font-size: 1.1rem; margin-bottom: 0.5rem; color: #2c3e50;">TuanPIC精美大气的个人相册</div>
-      <div style="color: #666; font-size: 0.9rem;">优雅的个人照片展示与管理系统</div>
-    </div>
-  </a>
-  
-  <a href="https://github.com/yuntuanzi/YinghuoICP" style="text-decoration: none; color: inherit;">
-    <div style="background: #f5f5f5; border-radius: 8px; padding: 1.2rem; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <div style="font-weight: bold; font-size: 1.1rem; margin-bottom: 0.5rem; color: #2c3e50;">YinghuoICP萤火二次元虚拟备案系统</div>
-      <div style="color: #666; font-size: 0.9rem;">萤火系列二次元网站虚拟备案解决方案</div>
-    </div>
-  </a>
-  
-  <a href="https://github.com/yuntuanzi/18Warn" style="text-decoration: none; color: inherit;">
-    <div style="background: #f5f5f5; border-radius: 8px; padding: 1.2rem; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <div style="font-weight: bold; font-size: 1.1rem; margin-bottom: 0.5rem; color: #2c3e50;">18+网页恶搞提示</div>
-      <div style="color: #666; font-size: 0.9rem;">趣味恶搞的成人内容提示页面</div>
-    </div>
-  </a>
-</div>
-
-
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.2rem; margin-top: 1rem;"><!-- TuanICP二次元虚拟备案系统 --><a href="https://github.com/yuntuanzi/TuanICP" target="_blank" style="text-decoration: none; color: #2d3748;"><div style="background: #ffffff; border-radius: 10px; padding: 1.2rem; border: 1px solid #e2e8f0; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"><div style="display: flex; align-items: center; margin-bottom: 0.8rem;"><div style="width: 8px; height: 8px; border-radius: 50%; background: #3182ce; margin-right: 0.6rem;"></div><span style="font-weight: 600; font-size: 1.05rem;">TuanICP二次元虚拟备案系统</span></div><p style="color: #718096; font-size: 0.9rem; margin: 0; line-height: 1.5;">专为二次元网站设计的虚拟备案展示系统，美观实用</p><div style="margin-top: 1rem; display: inline-block; font-size: 0.85rem; color: #3182ce; font-weight: 500;">查看项目 →</div></div></a>
+<a href="https://github.com/yuntuanzi/TuanBBS" target="_blank" style="text-decoration: none; color: #2d3748;"><div style="background: #ffffff; border-radius: 10px; padding: 1.2rem; border: 1px solid #e2e8f0; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"><div style="display: flex; align-items: center; margin-bottom: 0.8rem;"><div style="width: 8px; height: 8px; border-radius: 50%; background: #38b2ac; margin-right: 0.6rem;"></div><span style="font-weight: 600; font-size: 1.05rem;">TuanBBS喜灰论坛</span></div><p style="color: #718096; font-size: 0.9rem; margin: 0; line-height: 1.5;">基于喜灰主题的轻量级论坛系统，功能丰富</p><div style="margin-top: 1rem; display: inline-block; font-size: 0.85rem; color: #38b2ac; font-weight: 500;">查看项目 →</div></div></a>
+<a href="https://github.com/yuntuanzi/Domain-Parking" target="_blank" style="text-decoration: none; color: #2d3748;"><div style="background: #ffffff; border-radius: 10px; padding: 1.2rem; border: 1px solid #e2e8f0; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"><div style="display: flex; align-items: center; margin-bottom: 0.8rem;"><div style="width: 8px; height: 8px; border-radius: 50%; background: #805ad5; margin-right: 0.6rem;"></div><span style="font-weight: 600; font-size: 1.05rem;">精美域名停靠页</span></div><p style="color: #718096; font-size: 0.9rem; margin: 0; line-height: 1.5;">现代化设计的域名停靠/展示页面模板，简洁大方</p><div style="margin-top: 1rem; display: inline-block; font-size: 0.85rem; color: #805ad5; font-weight: 500;">查看项目 →</div></div></a>
+<a href="https://github.com/yuntuanzi/TuanPic" target="_blank" style="text-decoration: none; color: #2d3748;"><div style="background: #ffffff; border-radius: 10px; padding: 1.2rem; border: 1px solid #e2e8f0; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"><div style="display: flex; align-items: center; margin-bottom: 0.8rem;"><div style="width: 8px; height: 8px; border-radius: 50%; background: #ed64a6; margin-right: 0.6rem;"></div><span style="font-weight: 600; font-size: 1.05rem;">TuanPIC个人相册</span></div><p style="color: #718096; font-size: 0.9rem; margin: 0; line-height: 1.5;">优雅的个人照片展示与管理系统，界面精美</p><div style="margin-top: 1rem; display: inline-block; font-size: 0.85rem; color: #ed64a6; font-weight: 500;">查看项目 →</div></div></a>
+<a href="https://github.com/yuntuanzi/YinghuoICP" target="_blank" style="text-decoration: none; color: #2d3748;"><div style="background: #ffffff; border-radius: 10px; padding: 1.2rem; border: 1px solid #e2e8f0; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"><div style="display: flex; align-items: center; margin-bottom: 0.8rem;"><div style="width: 8px; height: 8px; border-radius: 50%; background: #ecc94b; margin-right: 0.6rem;"></div><span style="font-weight: 600; font-size: 1.05rem;">YinghuoICP虚拟备案系统</span></div><p style="color: #718096; font-size: 0.9rem; margin: 0; line-height: 1.5;">萤火系列二次元网站虚拟备案解决方案</p><div style="margin-top: 1rem; display: inline-block; font-size: 0.85rem; color: #ecc94b; font-weight: 500;">查看项目 →</div></div></a>
+<a href="https://github.com/yuntuanzi/18Warn" target="_blank" style="text-decoration: none; color: #2d3748;"><div style="background: #ffffff; border-radius: 10px; padding: 1.2rem; border: 1px solid #e2e8f0; transition: all 0.3s ease; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"><div style="display: flex; align-items: center; margin-bottom: 0.8rem;"><div style="width: 8px; height: 8px; border-radius: 50%; background: #f56565; margin-right: 0.6rem;"></div><span style="font-weight: 600; font-size: 1.05rem;">18+网页恶搞提示</span></div><p style="color: #718096; font-size: 0.9rem; margin: 0; line-height: 1.5;">趣味恶搞的成人内容提示页面，互动性强</p><div style="margin-top: 1rem; display: inline-block; font-size: 0.85rem; color: #f56565; font-weight: 500;">查看项目 →</div></div></a></div>
