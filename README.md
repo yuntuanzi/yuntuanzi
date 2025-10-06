@@ -11,9 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 我的统计
-| 统计1 | 统计2 | 统计3 |
-|-----|-----|-----|
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuntuanzi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuntuanzi&layout=compact&langs_count=7&theme=radical"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuntuanzi&theme=radical" alt="GitHub Streak" /> |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuntuanzi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuntuanzi&layout=compact&langs_count=7&theme=radical"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuntuanzi&theme=radical" alt="GitHub Streak" />
 ## 📫 联系方式
 
 | 邮箱 | 站长交流群 |
