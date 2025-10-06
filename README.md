@@ -21,32 +21,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuntuanzi&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🔭 我正在做
-
-- 开发基于PHP的Web应用
-- 探索HTML5和CSS3的新特性
-- 优化Web性能和用户体验
-
-## 🌱 我正在学习
-
-- PHP最新特性与最佳实践
-- 响应式设计高级技巧
-- 前端工程化与自动化
-
-## 👯 合作与交流
-
-如果你有有趣的Web项目或技术问题，欢迎通过以下方式联系我：
-
 ## 📫 联系方式
 
 - 邮箱: ccssna@qq.com
 - QQ: 937319686
 - 站长交流群: 884503935
-
-## 💬 关于我
-
-专注于Web开发领域，热衷于用PHP、HTML和CSS构建高效、美观的网站和应用。喜欢探索新技术，分享开发经验，期待与更多开发者交流学习。
-
----
-
-⭐️ 从 [yuntuanzi](https://github.com/yuntuanzi) 了解更多
